@@ -12,3 +12,5 @@ I uploaded the files straight from the ZIP file obtained from https://jepricreat
 
 <img width="754" height="224" alt="image" src="https://github.com/user-attachments/assets/f204f244-694d-41df-a006-298504d39e7b" />
 https://www.virustotal.com/gui/file/2ce338133d21a07c521f10a317fbab0dbb14e9387b26036d76dc079ce53881c1
+
+Cursor pack available for free so you don't have to pay for it.
