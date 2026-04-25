@@ -7,3 +7,5 @@ To download, just tap on `Code` and then `Download ZIP`
 <img width="430" height="321" alt="image" src="https://github.com/user-attachments/assets/6a9b4a54-03b4-45b2-95f2-c677ae75e80c" />
 
 I uploaded the files straight from the ZIP file obtained from https://jepricreations.com/products/cursor-concept-3-hdpi
+
+! Inside `cursor` there is a CMD script that will automatically install the cursors for you, I did not modify this script, you can open it on Notepad to see what the script does. It only installs the cursor pack into your Windows instalation, nothing else.
